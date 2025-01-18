@@ -1,0 +1,204 @@
+{
+  "components" : {
+    "2t,placeholder" : {
+      "parent" : "hF@",
+      "children" : [ "7I$placeholder", "Bq@placeholder" ],
+      "cType" : "graph",
+      "orientation" : "VERTICAL",
+      "contentData" : [ ],
+      "contentInterval" : "daily",
+      "dataVisible" : {
+        "volume24h" : "",
+        "range365" : "",
+        "yearEnding" : "",
+        "price" : "",
+        "marketCap" : "",
+        "range30" : "",
+        "yearToDate" : "",
+        "average30" : ""
+      },
+      "dataColor" : { }
+    },
+    "%*o" : {
+      "parent" : "pMhplaceholder",
+      "children" : [ ],
+      "cType" : "graph",
+      "orientation" : "HORIZONTAL",
+      "contentData" : [ "ethereum" ],
+      "contentInterval" : "monthly",
+      "dataVisible" : {
+        "volume24h" : "",
+        "range365" : "",
+        "yearEnding" : "",
+        "price" : "",
+        "marketCap" : "",
+        "range30" : "",
+        "yearToDate" : "",
+        "average30" : ""
+      },
+      "dataColor" : {
+        "ethereum" : "4d8080"
+      }
+    },
+    "pMhplaceholder" : {
+      "parent" : "7I$placeholder",
+      "children" : [ "%*o", ",Ph" ],
+      "cType" : "graph",
+      "orientation" : "VERTICAL",
+      "contentData" : [ ],
+      "contentInterval" : "daily",
+      "dataVisible" : {
+        "volume24h" : "",
+        "range365" : "",
+        "yearEnding" : "",
+        "price" : "",
+        "marketCap" : "",
+        "range30" : "",
+        "yearToDate" : "",
+        "average30" : ""
+      },
+      "dataColor" : { }
+    },
+    "7I$placeholder" : {
+      "parent" : "2t,placeholder",
+      "children" : [ "uGL", "pMhplaceholder" ],
+      "cType" : "graph",
+      "orientation" : "HORIZONTAL",
+      "contentData" : [ ],
+      "contentInterval" : "daily",
+      "dataVisible" : {
+        "volume24h" : "",
+        "range365" : "",
+        "yearEnding" : "",
+        "price" : "",
+        "marketCap" : "",
+        "range30" : "",
+        "yearToDate" : "",
+        "average30" : ""
+      },
+      "dataColor" : { }
+    },
+    "Bq@placeholder" : {
+      "parent" : "2t,placeholder",
+      "children" : [ "eV7", "9ju" ],
+      "cType" : "graph",
+      "orientation" : "HORIZONTAL",
+      "contentData" : [ ],
+      "contentInterval" : "daily",
+      "dataVisible" : {
+        "volume24h" : "",
+        "range365" : "",
+        "yearEnding" : "",
+        "price" : "",
+        "marketCap" : "",
+        "range30" : "",
+        "yearToDate" : "",
+        "average30" : ""
+      },
+      "dataColor" : { }
+    },
+    ",Ph" : {
+      "parent" : "pMhplaceholder",
+      "children" : [ ],
+      "cType" : "card",
+      "orientation" : "VERTICAL",
+      "contentData" : [ "monero" ],
+      "contentInterval" : "",
+      "dataVisible" : {
+        "volume24h" : "true",
+        "range365" : "true",
+        "yearEnding" : "true",
+        "price" : "true",
+        "marketCap" : "true",
+        "range30" : "true",
+        "yearToDate" : "true",
+        "average30" : "true"
+      },
+      "dataColor" : { }
+    },
+    "uGL" : {
+      "parent" : "7I$placeholder",
+      "children" : [ ],
+      "cType" : "graph",
+      "orientation" : "HORIZONTAL",
+      "contentData" : [ "bitcoin" ],
+      "contentInterval" : "weekly",
+      "dataVisible" : {
+        "volume24h" : "",
+        "range365" : "",
+        "yearEnding" : "",
+        "price" : "",
+        "marketCap" : "",
+        "range30" : "",
+        "yearToDate" : "",
+        "average30" : ""
+      },
+      "dataColor" : {
+        "bitcoin" : "e6994d"
+      }
+    },
+    "eV7" : {
+      "parent" : "Bq@placeholder",
+      "children" : [ ],
+      "cType" : "bar",
+      "orientation" : "VERTICAL",
+      "contentData" : [ "bitcoin" ],
+      "contentInterval" : "",
+      "dataVisible" : {
+        "volume24h" : "",
+        "range365" : "",
+        "yearEnding" : "",
+        "price" : "",
+        "marketCap" : "",
+        "range30" : "",
+        "yearToDate" : "",
+        "average30" : ""
+      },
+      "dataColor" : {
+        "bitcoin" : "e6b34d"
+      }
+    },
+    "hF@" : {
+      "parent" : "hF@",
+      "children" : [ "2t,placeholder" ],
+      "cType" : "root",
+      "orientation" : "HORIZONTAL",
+      "contentData" : [ ],
+      "contentInterval" : "daily",
+      "dataVisible" : {
+        "volume24h" : "",
+        "range365" : "",
+        "yearEnding" : "",
+        "price" : "",
+        "marketCap" : "",
+        "range30" : "",
+        "yearToDate" : "",
+        "average30" : ""
+      },
+      "dataColor" : { }
+    },
+    "9ju" : {
+      "parent" : "Bq@placeholder",
+      "children" : [ ],
+      "cType" : "graph",
+      "orientation" : "HORIZONTAL",
+      "contentData" : [ "solana", "monero" ],
+      "contentInterval" : "weekly",
+      "dataVisible" : {
+        "volume24h" : "",
+        "range365" : "",
+        "yearEnding" : "",
+        "price" : "",
+        "marketCap" : "",
+        "range30" : "",
+        "yearToDate" : "",
+        "average30" : ""
+      },
+      "dataColor" : {
+        "solana" : "4d804d",
+        "monero" : "804d80"
+      }
+    }
+  },
+  "watchlist" : [ "ethereum", "solana", "monero", "bitcoin" ]
+}

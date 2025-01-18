@@ -1,0 +1,285 @@
+{
+  "components" : {
+    "L&iplaceholder" : {
+      "parent" : "}%Bplaceholder",
+      "children" : [ "5or", "pE*placeholder" ],
+      "cType" : "graph",
+      "orientation" : "HORIZONTAL",
+      "contentData" : [ ],
+      "contentInterval" : "daily",
+      "dataVisible" : {
+        "volume24h" : "",
+        "range365" : "",
+        "yearEnding" : "",
+        "price" : "",
+        "marketCap" : "",
+        "range30" : "",
+        "yearToDate" : "",
+        "average30" : ""
+      },
+      "dataColor" : { }
+    },
+    "}%Bplaceholder" : {
+      "parent" : "Pyb",
+      "children" : [ "iT|", "L&iplaceholder" ],
+      "cType" : "graph",
+      "orientation" : "VERTICAL",
+      "contentData" : [ ],
+      "contentInterval" : "daily",
+      "dataVisible" : {
+        "volume24h" : "",
+        "range365" : "",
+        "yearEnding" : "",
+        "price" : "",
+        "marketCap" : "",
+        "range30" : "",
+        "yearToDate" : "",
+        "average30" : ""
+      },
+      "dataColor" : { }
+    },
+    "C6*placeholder" : {
+      "parent" : "pE*placeholder",
+      "children" : [ "h#:", ">o3placeholder" ],
+      "cType" : "graph",
+      "orientation" : "HORIZONTAL",
+      "contentData" : [ ],
+      "contentInterval" : "daily",
+      "dataVisible" : {
+        "volume24h" : "",
+        "range365" : "",
+        "yearEnding" : "",
+        "price" : "",
+        "marketCap" : "",
+        "range30" : "",
+        "yearToDate" : "",
+        "average30" : ""
+      },
+      "dataColor" : { }
+    },
+    "C4)placeholder" : {
+      "parent" : ">o3placeholder",
+      "children" : [ "#8F", "!1X" ],
+      "cType" : "graph",
+      "orientation" : "HORIZONTAL",
+      "contentData" : [ ],
+      "contentInterval" : "daily",
+      "dataVisible" : {
+        "volume24h" : "",
+        "range365" : "",
+        "yearEnding" : "",
+        "price" : "",
+        "marketCap" : "",
+        "range30" : "",
+        "yearToDate" : "",
+        "average30" : ""
+      },
+      "dataColor" : { }
+    },
+    "h#:" : {
+      "parent" : "C6*placeholder",
+      "children" : [ ],
+      "cType" : "graph",
+      "orientation" : "VERTICAL",
+      "contentData" : [ "dogecoin" ],
+      "contentInterval" : "daily",
+      "dataVisible" : {
+        "volume24h" : "",
+        "range365" : "",
+        "yearEnding" : "",
+        "price" : "",
+        "marketCap" : "",
+        "range30" : "",
+        "yearToDate" : "",
+        "average30" : ""
+      },
+      "dataColor" : {
+        "dogecoin" : "4d4d4d"
+      }
+    },
+    "D]9" : {
+      "parent" : ">o3placeholder",
+      "children" : [ ],
+      "cType" : "graph",
+      "orientation" : "HORIZONTAL",
+      "contentData" : [ "shiba-inu" ],
+      "contentInterval" : "daily",
+      "dataVisible" : {
+        "volume24h" : "",
+        "range365" : "",
+        "yearEnding" : "",
+        "price" : "",
+        "marketCap" : "",
+        "range30" : "",
+        "yearToDate" : "",
+        "average30" : ""
+      },
+      "dataColor" : {
+        "shiba-inu" : "808080"
+      }
+    },
+    "pE*placeholder" : {
+      "parent" : "L&iplaceholder",
+      "children" : [ "/i9", "C6*placeholder" ],
+      "cType" : "graph",
+      "orientation" : "VERTICAL",
+      "contentData" : [ ],
+      "contentInterval" : "daily",
+      "dataVisible" : {
+        "volume24h" : "",
+        "range365" : "",
+        "yearEnding" : "",
+        "price" : "",
+        "marketCap" : "",
+        "range30" : "",
+        "yearToDate" : "",
+        "average30" : ""
+      },
+      "dataColor" : { }
+    },
+    "5or" : {
+      "parent" : "L&iplaceholder",
+      "children" : [ ],
+      "cType" : "graph",
+      "orientation" : "VERTICAL",
+      "contentData" : [ "shiba-inu" ],
+      "contentInterval" : "daily",
+      "dataVisible" : {
+        "volume24h" : "",
+        "range365" : "",
+        "yearEnding" : "",
+        "price" : "",
+        "marketCap" : "",
+        "range30" : "",
+        "yearToDate" : "",
+        "average30" : ""
+      },
+      "dataColor" : {
+        "shiba-inu" : "1a1a1a"
+      }
+    },
+    "#8F" : {
+      "parent" : "C4)placeholder",
+      "children" : [ ],
+      "cType" : "graph",
+      "orientation" : "VERTICAL",
+      "contentData" : [ "pepe" ],
+      "contentInterval" : "daily",
+      "dataVisible" : {
+        "volume24h" : "",
+        "range365" : "",
+        "yearEnding" : "",
+        "price" : "",
+        "marketCap" : "",
+        "range30" : "",
+        "yearToDate" : "",
+        "average30" : ""
+      },
+      "dataColor" : {
+        "pepe" : "b3b3b3"
+      }
+    },
+    "!1X" : {
+      "parent" : "C4)placeholder",
+      "children" : [ ],
+      "cType" : "graph",
+      "orientation" : "HORIZONTAL",
+      "contentData" : [ "dogecoin" ],
+      "contentInterval" : "daily",
+      "dataVisible" : {
+        "volume24h" : "",
+        "range365" : "",
+        "yearEnding" : "",
+        "price" : "",
+        "marketCap" : "",
+        "range30" : "",
+        "yearToDate" : "",
+        "average30" : ""
+      },
+      "dataColor" : {
+        "dogecoin" : "ffffff"
+      }
+    },
+    "/i9" : {
+      "parent" : "pE*placeholder",
+      "children" : [ ],
+      "cType" : "graph",
+      "orientation" : "HORIZONTAL",
+      "contentData" : [ "pepe" ],
+      "contentInterval" : "daily",
+      "dataVisible" : {
+        "volume24h" : "",
+        "range365" : "",
+        "yearEnding" : "",
+        "price" : "",
+        "marketCap" : "",
+        "range30" : "",
+        "yearToDate" : "",
+        "average30" : ""
+      },
+      "dataColor" : {
+        "pepe" : "333333"
+      }
+    },
+    "Pyb" : {
+      "parent" : "Pyb",
+      "children" : [ "}%Bplaceholder" ],
+      "cType" : "root",
+      "orientation" : "HORIZONTAL",
+      "contentData" : [ ],
+      "contentInterval" : "daily",
+      "dataVisible" : {
+        "volume24h" : "",
+        "range365" : "",
+        "yearEnding" : "",
+        "price" : "",
+        "marketCap" : "",
+        "range30" : "",
+        "yearToDate" : "",
+        "average30" : ""
+      },
+      "dataColor" : { }
+    },
+    ">o3placeholder" : {
+      "parent" : "C6*placeholder",
+      "children" : [ "D]9", "C4)placeholder" ],
+      "cType" : "graph",
+      "orientation" : "VERTICAL",
+      "contentData" : [ ],
+      "contentInterval" : "daily",
+      "dataVisible" : {
+        "volume24h" : "",
+        "range365" : "",
+        "yearEnding" : "",
+        "price" : "",
+        "marketCap" : "",
+        "range30" : "",
+        "yearToDate" : "",
+        "average30" : ""
+      },
+      "dataColor" : { }
+    },
+    "iT|" : {
+      "parent" : "}%Bplaceholder",
+      "children" : [ ],
+      "cType" : "graph",
+      "orientation" : "HORIZONTAL",
+      "contentData" : [ "dogecoin" ],
+      "contentInterval" : "monthly",
+      "dataVisible" : {
+        "volume24h" : "",
+        "range365" : "",
+        "yearEnding" : "",
+        "price" : "",
+        "marketCap" : "",
+        "range30" : "",
+        "yearToDate" : "",
+        "average30" : ""
+      },
+      "dataColor" : {
+        "dogecoin" : "000000"
+      }
+    }
+  },
+  "watchlist" : [ "dogecoin", "shiba-inu", "pepe" ]
+}

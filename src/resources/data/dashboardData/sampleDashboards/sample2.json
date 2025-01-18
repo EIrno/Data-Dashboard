@@ -1,0 +1,47 @@
+{
+  "components" : {
+    "L-&" : {
+      "parent" : "L-&",
+      "children" : [ "A\"A" ],
+      "cType" : "root",
+      "orientation" : "HORIZONTAL",
+      "contentData" : [ ],
+      "contentInterval" : "daily",
+      "dataVisible" : {
+        "volume24h" : "",
+        "range365" : "",
+        "yearEnding" : "",
+        "price" : "",
+        "marketCap" : "",
+        "range30" : "",
+        "yearToDate" : "",
+        "average30" : ""
+      },
+      "dataColor" : { }
+    },
+    "A\"A" : {
+      "parent" : "L-&",
+      "children" : [ ],
+      "cType" : "graph",
+      "orientation" : "HORIZONTAL",
+      "contentData" : [ "tether", "ripple", "cardano" ],
+      "contentInterval" : "monthly",
+      "dataVisible" : {
+        "volume24h" : "",
+        "range365" : "",
+        "yearEnding" : "",
+        "price" : "",
+        "marketCap" : "",
+        "range30" : "",
+        "yearToDate" : "",
+        "average30" : ""
+      },
+      "dataColor" : {
+        "ripple" : "ff9999",
+        "tether" : "ffcccc",
+        "cardano" : "ff6666"
+      }
+    }
+  },
+  "watchlist" : [ "ripple", "tether", "cardano" ]
+}

@@ -1,0 +1,36 @@
+
+
+
+1. Sprint
+
+added:
+- basic api functionality
+- parser for the api data
+- initial structure for the UI
+- graph with data from the api
+
+tested:
+nada
+
+errors and solutions:
+- I didn't use the right date type initially. I switched to java.time and that solved the issues
+- Getting familiar with the scalafx graphs was time-consuming
+
+workload:
+under 10 hours? I didn't really use that  much time neither did I track it properly. I will track my time better for the next sprint.
+
+schedule:
+I think I am in a pretty good pace with my project. Kinda lagging, because in my own opinion I could have done so much more.
+
+
+
+
+2. Sprint
+
+goals:
+- finishing api and parser
+- creating the Dashboard class
+- creating other ui components
+
+
+
