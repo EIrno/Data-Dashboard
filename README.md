@@ -5,5 +5,4 @@ Interactive data dashboard that fetches the data from CoinGecko and allows user 
 
 <img width="1674" alt="Näyttökuva 2025-1-17 kello 22 34 27" src="https://github.com/user-attachments/assets/dfeac0d2-c51a-4655-8442-86f7e0c79c4c" />
 <img width="637" alt="Näyttökuva 2025-1-17 kello 22 35 38" src="https://github.com/user-attachments/assets/492a078f-f1b3-4237-a591-29756dd5cb76" />
-![Nayttotallennus2025-1-17kello22 54 11-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/fa1d59b9-0b9d-4807-8717-b93d6720c6f0)
 
